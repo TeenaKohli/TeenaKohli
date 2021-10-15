@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeenaKohli
 - 👀 I’m interested in ...AWS Cloud , Dev-Ops Tools
-- 🌱 I’m currently learning ... Cloud Formation , Terraform
+- 🌱 I’m currently learning ... Cloud Formation, Terraform, Python 
 - 💞️ I’m looking to collaborate on ...New challenging Projects 
 - 📫 How to reach me ...through email: Teena.kohli.8622@gmail.com
 
